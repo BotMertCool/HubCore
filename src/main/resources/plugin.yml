@@ -1,0 +1,7 @@
+name: HubCore
+version: '${project.version}'
+main: me.botmert.hubcore.HubCore
+description: HubCore
+commands:
+  hubcore:
+    description: Command to view hubcore commands.

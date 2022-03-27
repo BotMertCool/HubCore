@@ -1,0 +1,6 @@
+joinMessageEnabled: true
+joinMessage:
+  - "YES"
+  - "Test"
+  - "test"
+noPermission: "&cYou do not have the correct permissions!"

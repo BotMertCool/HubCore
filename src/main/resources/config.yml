@@ -1,0 +1,4 @@
+queuePlugin: "PORTAL" # current options: PORTAL
+
+joinEffects:
+  speed: 4 # set to 0 for no effect
